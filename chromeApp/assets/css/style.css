@@ -1,0 +1,32 @@
+body{
+	width: 620px;
+	height: 500px;
+}
+
+.w-73{
+	width: 65% !important;
+	float: left;
+}
+
+.w-24{
+	width: 31% !important;
+	margin-left: 10px;
+}
+
+.form-control{
+	border-color: #007bff !important;
+}
+
+.search-btn{	
+    margin-left: 27%;
+    width: 200px;
+}
+
+.mt-11{
+	margin-top: 7rem !important;
+}
+
+/*.sel-type{
+	height: 37px !important;
+	font-size: 9px !important;
+}*/

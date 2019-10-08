@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+	"name": "Facebook Lead Extension",
+	"description": "facebook lead genarator extension for chrome browser",
+	"version": "1.0.0",
+	"icons": {"128":"assets/img/support.png"},
+	"browser_action": {
+		"default_icon": "assets/img/support-19-19.png",
+		"default_popup": "templates/home.html"
+	},
+	"permissions": ["activeTab", "https://project-890472.000webhostapp.com/*"]
+}    
